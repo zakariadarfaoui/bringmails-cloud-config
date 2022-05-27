@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+bringmails:
+  data:
+    response-size: 20
+    airports-url: file:///D:/Dev/Workspaces/IdeaProjects/Projects/bringmails/data/airports.csv
+    countries-url: file:///D:/Dev/Workspaces/IdeaProjects/Projects/bringmails/data/countries.csv
+    flags-server-url: http://localhost:8888/DATA/flag/square/32/
